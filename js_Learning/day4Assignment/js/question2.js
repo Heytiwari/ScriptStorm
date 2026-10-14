@@ -7,3 +7,4 @@ let ans = (x * x) - (2 * x * y) + (y * y);
 
 console.log(ans);
 console.log(typeof (ans));
+
