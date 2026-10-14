@@ -33,8 +33,3 @@ console.log("Total Subject Number: " + totalSubjectNumber);
 let percentage = (totalSubjectNumber / 500) * 100;
 
 console.log("Student Total Subject Percentage: " , percentage,"%");
-
-
-
-
-
