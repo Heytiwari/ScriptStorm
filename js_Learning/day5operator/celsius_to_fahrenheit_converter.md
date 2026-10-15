@@ -70,17 +70,10 @@ console.log("The temperature in Fahrenheit: " + fahrenheit);
 
 ## 📸 Screenshots
 
-### 1. User Prompt Input
-*Add a screenshot showing the browser prompt dialog asking for the temperature in Celsius.*
-
-![Prompt Input](./screenshots/prompt-input.png)
-
----
-
-### 2. Console Result
+### Console Result
 *Add a screenshot showing the calculated Fahrenheit result printed in the console.*
 
-![Console Output](./screenshots/console-output.png)
+![Console Output](./screenshort/Fahrenheit.png)
 
 ---
 
@@ -92,7 +85,6 @@ temperature-converter/
 ├── script.js
 ├── README.md
 └── screenshots/
-    ├── prompt-input.png
     └── console-output.png
 ```
 
