@@ -79,17 +79,10 @@ console.log("This is your current age: " + currentAge);
 
 ## 📸 Screenshots
 
-### 1. User Prompt Input
-*Add a screenshot showing the browser prompt popup asking for the birth year.*
-
-![Prompt Input Screenshot](./screenshots/prompt-input.png)
-
----
-
-### 2. Console Result
+### Console Result
 *Add a screenshot showing the calculated age printed in the browser developer console.*
 
-![Console Result Screenshot](./screenshots/console-output.png)
+![Console Result Screenshot](./screenshort/age-calculator.png)
 
 ---
 
@@ -101,10 +94,9 @@ age-calculator/
 ├── script.js
 ├── README.md
 └── screenshots/
-    ├── prompt-input.png
     └── console-output.png
+    
 ```
-
 ---
 
 ## 📝 License
