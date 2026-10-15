@@ -55,19 +55,10 @@ console.log(tableNumber + " x 10 = " + (tableNumber * 10));
 
 ## 📸 Screenshots
 
-### 1. User Prompt (Input)
-*Add a screenshot showing the browser prompt dialog asking for the table number.*
-
-![Prompt Input](./screenshots/prompt-input.png)
-
----
-
-### 2. Table Output in Console
+###  Table Output in Console
 *Add a screenshot showing the printed multiplication table results inside the developer console.*
 
-![Console Table Output](./screenshots/console-output.png)
-
----
+![Console Table Output](./screenshort/table.png)
 
 ## 📁 Suggested Directory Structure
 
@@ -77,7 +68,6 @@ multiplication-table/
 ├── script.js
 ├── README.md
 └── screenshots/
-    ├── prompt-input.png
     └── console-output.png
 ```
 
