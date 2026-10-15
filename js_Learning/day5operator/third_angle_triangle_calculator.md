@@ -47,19 +47,11 @@ console.log("This is a Third Angle Answer: ", thirdAngle);
 
 ## 📸 Screenshots
 
-### 1. User Prompt Input
-*Enter the first two angles when prompted:*
-
-![Angle Prompt Input](./screenshots/prompt-input.png)
-
----
-
-### 2. Calculated Result in Console
+### Calculated Result in Console
 *Output showing the calculated third angle:*
 
-![Console Output](./screenshots/console-output.png)
+![Console Output](./screenshort/triangle-calculator.png)
 
----
 
 ## 📁 Suggested Directory Structure
 
@@ -69,7 +61,6 @@ triangle-angle-finder/
 ├── script.js
 ├── README.md
 └── screenshots/
-    ├── prompt-input.png
     └── console-output.png
 ```
 

@@ -1,11 +1,11 @@
 
 let baseSalary = +prompt("Enter Base Salary: ");
 
-let hra = +prompt("Enter HRA: ");
+const hra = 10;
 
-let da = +prompt("Enter DA: ");
+const da = 5;
 
-let ta = +prompt("TA: ");
+const ta = 8;
 
 let grossSalary = baseSalary + (baseSalary * hra / 100) + (baseSalary * hra / 100) + (baseSalary * ta /100);
 
