@@ -100,19 +100,11 @@ console.log("Percentage: " + percentage + "%");
 
 ## 📸 Screenshots
 
-### 1. User Prompts (Inputs)
-*Add a screenshot showing the prompt boxes where the student name and marks are entered.*
-
-![Prompt Inputs](./screenshots/prompt-inputs.png)
-
----
-
-### 2. Console Report (Output)
+### Console Report (Output)
 *Add a screenshot showing the itemized score sheet and percentage printed in the console.*
 
-![Console Output](./screenshots/console-output.png)
+![Console Output](./screenshort/student-grade.png)
 
----
 
 ## 📁 Suggested Directory Structure
 
@@ -122,7 +114,6 @@ student-percentage-calculator/
 ├── script.js
 ├── README.md
 └── screenshots/
-    ├── prompt-inputs.png
     └── console-output.png
 ```
 

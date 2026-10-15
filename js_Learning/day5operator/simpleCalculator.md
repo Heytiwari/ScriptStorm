@@ -59,15 +59,10 @@ console.log("Division: " + division);
 
 ## 📸 Screenshots
 
-### 1. User Prompt Input
-Enter the values when the prompt dialog appears:
-
-![Prompt Screenshot](screenshots/prompt-input.png)
-
-### 2. Output in Developer Console
+### Output in Developer Console
 View the computed arithmetic operations printed in the console:
 
-![Console Output Screenshot](screenshots/console-output.png)
+![Console Output Screenshot](./screenshort/twoVariableAdding.png/)
 
 ---
 
