@@ -73,18 +73,10 @@ console.log("Gross Salary: Rs. " + grossSalary);
 ---
 
 ## 📸 Screenshots
-
-### 1. User Prompts (Input Dialogs)
-*Add a screenshot showing the prompt popups asking for base salary and allowance percentages.*
-
-![Prompt Inputs](./screenshots/prompt-inputs.png)
-
----
-
-### 2. Salary Breakdown & Console Output
+### Salary Breakdown & Console Output
 *Add a screenshot of the browser console displaying the itemized salary and final Gross Salary.*
 
-![Console Output](./screenshots/console-output.png)
+![Console Output](./screenshort/grosssalary.png)
 
 ---
 
@@ -96,7 +88,6 @@ gross-salary-calculator/
 ├── script.js
 ├── README.md
 └── screenshots/
-    ├── prompt-inputs.png
     └── console-output.png
 ```
 
