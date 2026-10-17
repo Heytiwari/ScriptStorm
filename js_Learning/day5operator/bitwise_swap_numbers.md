@@ -80,17 +80,10 @@ console.log("b = " + b);
 
 ## 📸 Screenshots
 
-### 1. User Prompts (Input)
+### wapped Output in Console
 *Add a screenshot showing the prompt asking for input values.*
 
-![Prompt Input](./screenshots/prompt-input.png)
-
----
-
-### 2. Swapped Output in Console
-*Add a screenshot showing the console displaying values before and after swapping.*
-
-![Console Swapped Output](./screenshots/console-output.png)
+![Prompt Input](./screenshort/swap-two-number.png)
 
 ---
 
