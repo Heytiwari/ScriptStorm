@@ -85,6 +85,17 @@ console.log("b = " + b);
 
 ![Prompt Input](./screenshots/prompt-input.png)
 
+## 📸 video
+
+
+
+
+
+https://github.com/user-attachments/assets/0df94475-0f53-4463-9bf3-1e70f7623874
+
+
+
+
 ---
 
 ### 2. Swapped Output in Console
