@@ -60,6 +60,16 @@ console.log(tableNumber + " x 10 = " + (tableNumber * 10));
 
 ![Console Table Output](./screenshort/table.png)
 
+## 📸 video
+
+
+
+
+
+https://github.com/user-attachments/assets/0b7cd2ac-f5dc-4c02-8665-5ac71c8980b5
+
+
+
 ## 📁 Suggested Directory Structure
 
 ```text

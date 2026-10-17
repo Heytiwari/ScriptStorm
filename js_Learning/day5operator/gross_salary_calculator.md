@@ -78,6 +78,16 @@ console.log("Gross Salary: Rs. " + grossSalary);
 
 ![Console Output](./screenshort/grosssalary.png)
 
+## 📸 video
+
+
+
+
+
+https://github.com/user-attachments/assets/f78b35b6-ba74-403e-90bd-9d897aca8eae
+
+
+
 ---
 
 ## 📁 Suggested Directory Structure

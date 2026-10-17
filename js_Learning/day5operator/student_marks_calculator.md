@@ -105,6 +105,15 @@ console.log("Percentage: " + percentage + "%");
 
 ![Console Output](./screenshort/student-grade.png)
 
+## 📸 video
+
+
+
+
+https://github.com/user-attachments/assets/9f246963-a808-4346-aa9c-9fd304169b7d
+
+
+
 
 ## 📁 Suggested Directory Structure
 

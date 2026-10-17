@@ -64,6 +64,17 @@ View the computed arithmetic operations printed in the console:
 
 ![Console Output Screenshot](./screenshort/twoVariableAdding.png/)
 
+## 📸 video
+
+
+
+
+
+
+https://github.com/user-attachments/assets/de92f996-db81-4908-867a-980ed4d9764e
+
+
+
 ---
 
 ## 📁 Suggested Directory Structure

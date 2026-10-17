@@ -75,6 +75,14 @@ console.log("The temperature in Fahrenheit: " + fahrenheit);
 
 ![Console Output](./screenshort/Fahrenheit.png)
 
+## 📸 video
+
+
+
+https://github.com/user-attachments/assets/ba6da095-a156-4afa-8613-f4edfd9d0d58
+
+
+
 ---
 
 ## 📁 Suggested Directory Structure

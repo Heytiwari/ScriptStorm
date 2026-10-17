@@ -52,6 +52,16 @@ console.log("This is a Third Angle Answer: ", thirdAngle);
 
 ![Console Output](./screenshort/triangle-calculator.png)
 
+## 📸 video
+
+
+
+
+
+https://github.com/user-attachments/assets/da280574-9d2a-488a-aca2-5ccb9f8f4bc5
+
+
+
 
 ## 📁 Suggested Directory Structure
 

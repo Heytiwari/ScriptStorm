@@ -1,3 +1,4 @@
+
 # Age Calculator (JavaScript)
 
 A simple console-based JavaScript application that calculates a user's current age based on their birth year and the target calendar year.
@@ -86,6 +87,12 @@ console.log("This is your current age: " + currentAge);
 
 
 ## 📸 Video
+
+
+
+
+
+https://github.com/user-attachments/assets/83048422-39b7-44ae-a820-cfcf57682ed2
 
 
 

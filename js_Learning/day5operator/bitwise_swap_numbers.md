@@ -80,10 +80,36 @@ console.log("b = " + b);
 
 ## 📸 Screenshots
 
+<<<<<<< HEAD
+=======
+## 📸 Screenshots
+
+>>>>>>> cb2df5848de80e77e9d0fbff7d5181b0148b1782
 ### wapped Output in Console
 *Add a screenshot showing the prompt asking for input values.*
 
 ![Prompt Input](./screenshort/swap-two-number.png)
+<<<<<<< HEAD
+=======
+
+## 📸 video
+
+
+
+
+
+https://github.com/user-attachments/assets/0df94475-0f53-4463-9bf3-1e70f7623874
+
+
+
+
+---
+
+### 2. Swapped Output in Console
+*Add a screenshot showing the console displaying values before and after swapping.*
+
+![Console Swapped Output](./screenshots/console-output.png)
+>>>>>>> cb2df5848de80e77e9d0fbff7d5181b0148b1782
 
 ---
 
