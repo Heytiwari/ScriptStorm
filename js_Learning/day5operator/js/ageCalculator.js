@@ -1,3 +1,14 @@
+/*
+Age Calculator
+● Input Birth Year
+● Calculate Current Age
+● Display category:
+○ Child
+○ Teenager
+○ Adult
+○ Senior Citizen
+*/
+
 
 let birthOfYear = +prompt("Enter Birth Year: ");
 

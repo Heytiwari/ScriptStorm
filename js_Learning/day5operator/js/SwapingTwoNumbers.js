@@ -1,3 +1,6 @@
+/*Write Program to Swap two variables without using a third
+variable and without using + and - symbol. */
+
 
 let a = +prompt("Enter First Number: ");  // 10
 let b = +prompt("Enter Second Number: "); // 20

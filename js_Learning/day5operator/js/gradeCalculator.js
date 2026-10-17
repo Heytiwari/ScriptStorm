@@ -1,3 +1,10 @@
+/*
+Student Grade Calculator
+Input: Student Name, 5 Subject Marks
+Calculate Total, Percentage, Grade
+Display using console.log() and innerHTML
+*/ 
+
 
 let studentName = prompt("Enter Student Name: ");
 

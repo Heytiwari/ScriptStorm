@@ -1,3 +1,9 @@
+/* 
+Write a javascript Program to two variable addition,
+subtraction, multiplication, division .(compulsory user
+input).
+*/
+
 let a = +prompt("Enter First Number: ");
 let b = +prompt("Enter Second Number: ");
 

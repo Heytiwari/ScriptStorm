@@ -1,3 +1,13 @@
+/*Write a Program to find gross salary by adding % of HRA,
+DA, and TA of user choice.
+For example,
+Input:
+Base Salary: 100
+HRA=10
+DA=5
+TA=8 */
+
+
 
 let baseSalary = +prompt("Enter Base Salary: ");
 

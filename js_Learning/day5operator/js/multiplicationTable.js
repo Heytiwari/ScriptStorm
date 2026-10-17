@@ -1,3 +1,8 @@
+/*
+Write Program to print multiplication table without using
+any loop.
+*/
+
 
 let tableNumber = +prompt("Enter Table Number: ");
 
