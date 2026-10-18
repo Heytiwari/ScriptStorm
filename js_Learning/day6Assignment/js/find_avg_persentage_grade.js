@@ -38,8 +38,8 @@ document.write(`Subject Number: ${subjectNum4}<br>`);
 console.log(`Subject Name: ${subjectName5}`);
 document.write(`Subject Number: ${subjectNum5}<br>`);
 
-console.log(`Total Number: ${totalNumber}`);
-document.write(`Total Number: ${totalNumber}<br>`);
+console.log(`Total Number: ${totalNumber}/ 500`);
+document.write(`Total Number: ${totalNumber}/ 500 <br>`);
 
 console.log(`Percentage: ${percentage}`);
 document.write(`Percentage: ${percentage}<br>`);
