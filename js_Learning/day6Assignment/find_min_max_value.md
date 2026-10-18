@@ -1,3 +1,4 @@
+
 # Maximum and Minimum Number Calculator
 
 ## 📌 Project Description
@@ -59,9 +60,7 @@ The Minimum value is: 5
 
 ## 📸 Project video
 
-
-
-
+https://github.com/user-attachments/assets/9a3af7ae-6e21-4e2a-b3d8-1d3cb3e048d9
 
 ## 🛠️ Technologies Used
 
