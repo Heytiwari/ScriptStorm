@@ -21,27 +21,37 @@ let totalNumber = subjectNum1 + subjectNum2 + subjectNum3 + subjectNum4 + subjec
 let percentage = (totalNumber / 500) * 100;
 
 console.log(`Student Name: ${studentName}`);
-document.write(`Student Name: ${studentName}<br>`);
 
-console.log(`Subject Name: ${subjectName1}`);
-document.write(`Subject Number: ${subjectNum1}<br>`);
+console.log(`${subjectName1} = ${subjectNum1}`);
 
-console.log(`Subject Name: ${subjectName2}`);
-document.write(`Subject Number: ${subjectNum2}<br>`);
+console.log(`${subjectName2} = ${subjectNum2}`);
 
-console.log(`Subject Name: ${subjectName3}`);
-document.write(`Subject Number: ${subjectNum3}<br>`);
+console.log(`${subjectName3} = ${subjectNum3}`);
 
-console.log(`Subject Name: ${subjectName4}`);
-document.write(`Subject Number: ${subjectNum4}<br>`);
+console.log(`${subjectName4} = ${subjectNum4}`);
 
-console.log(`Subject Name: ${subjectName5}`);
-document.write(`Subject Number: ${subjectNum5}<br>`);
+console.log(`${subjectName5} = ${subjectNum5}`);
 
 console.log(`Total Number: ${totalNumber}/ 500`);
-document.write(`Total Number: ${totalNumber}/ 500 <br>`);
 
 console.log(`Percentage: ${percentage}`);
+
+
+
+document.write(`${studentName}<br>`);
+
+document.write(`${subjectName1} = ${subjectNum1}<br>`);
+
+document.write(`${subjectName2} = ${subjectNum2}<br>`);
+
+document.write(`${subjectName3} = ${subjectNum3}<br>`);
+
+document.write(`${subjectName4} = ${subjectNum4}<br>`);
+
+document.write(`${subjectName5} = ${subjectNum5}<br>`);
+
+document.write(`Total Number: ${totalNumber}/ 500 <br>`);
+
 document.write(`Percentage: ${percentage}<br>`);
 
 
