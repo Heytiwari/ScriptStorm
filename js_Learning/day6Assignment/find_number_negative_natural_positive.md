@@ -1,3 +1,4 @@
+
 # Positive, Negative and Zero Number Checker
 
 ## 📌 Project Description
@@ -74,11 +75,7 @@ This Number is Natural.
 
 
 ## 📸 Project video
-
-
-
-
-
+https://github.com/user-attachments/assets/888c538c-4b51-45d6-861a-243050c1c673
 ## 🛠️ Technologies Used
 
 - HTML5
