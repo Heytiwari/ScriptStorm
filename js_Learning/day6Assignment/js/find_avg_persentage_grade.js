@@ -29,7 +29,7 @@ console.log(`Percentage: ${percentage}`);
 
 
 
-document.write(`${studentName}<br>`);
+document.write(`Student Name: ${studentName}<br>`);
 
 document.write(`Math = ${math}<br>`);
 
