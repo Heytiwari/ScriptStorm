@@ -17,38 +17,30 @@ The Student Grade Calculator is a beginner-friendly JavaScript project that take
 
 ```javascript
 
+
 let studentName = prompt(`Enter Student Name: `);
 
-let subjectName1 = prompt(`Enter Subject Name: `);
-let subjectNum1 = +prompt(`Enter Subject Number: `);
+let math = +prompt(`Enter the Math marks: `);
+let english = +prompt(`Enter the English marks: `);
+let science = +prompt(`Enter the Science marks: `);
+let history = +prompt(`Enter the History marks: `);
+let hindi = +prompt(`Enter the Hindi marks: `);
 
-let subjectName2 = prompt(`Enter Subject Name: `);
-let subjectNum2 = +prompt(`Enter Subject Number: `);
-
-let subjectName3 = prompt(`Enter Subject Name: `);
-let subjectNum3 = +prompt(`Enter Subject Number: `);
-
-let subjectName4 = prompt(`Enter Subject Name: `);
-let subjectNum4 = +prompt(`Enter Subject Number: `);
-
-let subjectName5 = prompt(`Enter Subject Name: `);
-let subjectNum5 = +prompt(`Enter Subject Number: `);
-
-let totalNumber = subjectNum1 + subjectNum2 + subjectNum3 + subjectNum4 + subjectNum5;
+let totalNumber = math + english + science + history + hindi;
 
 let percentage = (totalNumber / 500) * 100;
 
 console.log(`Student Name: ${studentName}`);
 
-console.log(`${subjectName1} = ${subjectNum1}`);
+console.log(`Math = ${math}`);
 
-console.log(`${subjectName2} = ${subjectNum2}`);
+console.log(`English = ${english}`);
 
-console.log(`${subjectName3} = ${subjectNum3}`);
+console.log(`Science = ${science}`);
 
-console.log(`${subjectName4} = ${subjectNum4}`);
+console.log(`History = ${history}`);
 
-console.log(`${subjectName5} = ${subjectNum5}`);
+console.log(`Hindi = ${hindi}`);
 
 console.log(`Total Number: ${totalNumber}/ 500`);
 
@@ -58,15 +50,15 @@ console.log(`Percentage: ${percentage}`);
 
 document.write(`${studentName}<br>`);
 
-document.write(`${subjectName1} = ${subjectNum1}<br>`);
+document.write(`Math = ${math}<br>`);
 
-document.write(`${subjectName2} = ${subjectNum2}<br>`);
+document.write(`English = ${english}<br>`);
 
-document.write(`${subjectName3} = ${subjectNum3}<br>`);
+document.write(`Science = ${science}<br>`);
 
-document.write(`${subjectName4} = ${subjectNum4}<br>`);
+document.write(`History = ${history}<br>`);
 
-document.write(`${subjectName5} = ${subjectNum5}<br>`);
+document.write(`Hindi = ${hindi}<br>`);
 
 document.write(`Total Number: ${totalNumber}/ 500 <br>`);
 
