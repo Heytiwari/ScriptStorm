@@ -27,7 +27,6 @@ switch (choice) {
         break;
 
     case 2:
-        document.write();
 
         let hindiChoice = +prompt("इंटरनेट रिचार्ज के लिए 1 दबाएं\nटॉप-अप रिचार्ज के लिए 2 दबाएं\nस्पेशल रिचार्ज के लिए 3 दबाएं");
 
@@ -68,6 +67,7 @@ switch (choice) {
                 document.write(`Tame galat choice chuniyo chhe.`)
                 break;
         }
+        break;
 
     default:
         document.write("Invalid Language Choice");
