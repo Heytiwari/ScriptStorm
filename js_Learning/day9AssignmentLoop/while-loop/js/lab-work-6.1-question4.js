@@ -1,8 +1,10 @@
 let num = +prompt(`Enter Any Number: `);
 
+if (num % 2 === 0) {
+    num--;
+}
+
 while (num >= 1) {
-    if (num !== 0) {
         document.write(`${num} &nbsp;&nbsp`);
-    }
-    num = num-2;
+    num-=2;
 }
