@@ -1,6 +1,5 @@
 let num = +prompt(`Enter Any Number: `);
 
-let orgNum = num;
 let rev = 0;
 
 while (num !== 0) {
@@ -11,4 +10,4 @@ while (num !== 0) {
     num = Math.floor(num / 10);
 }
 
-(orgNum === rev)?document.write(`${orgNum} is a Palindrom Number.`):document.write(`${orgNum} is not a Palindrom Number.`);
+(num === rev)?document.write(`${num} is a Palindrom Number.`):document.write(`${num} is not a Palindrom Number.`);
