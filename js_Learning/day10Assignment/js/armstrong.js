@@ -1,5 +1,6 @@
 
 let num = +prompt("Enter any number: ");
+let orgNum = num;
 let sum = 0;
 
 while (num !== 0) {
@@ -8,6 +9,6 @@ while (num !== 0) {
     num = Math.floor(num / 10);
 }
 
-(num === sum) 
-?document.write(`${num} is Armstrong Number`)
-:document.write(`${num} is not Armstrong Number`);
+(orgNum === sum) 
+?document.write(`${orgNum} is Armstrong Number`)
+:document.write(`${orgNum} is not Armstrong Number`);
