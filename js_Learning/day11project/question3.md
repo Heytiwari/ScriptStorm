@@ -9,14 +9,16 @@ Example:
 
 The final result is `2`.
 
+## 📂 Project Structure
+
 ```
 day11project/
-├── README.md
+├── question3.md
 ├── index.html
 ├── js
-│   └── q2.js
+│   └── q3.js
 └── screenshots/
-    └── q2.png
+    └── q3.png
 ```
 
 ## 💻 Code

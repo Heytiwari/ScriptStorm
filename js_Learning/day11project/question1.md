@@ -8,6 +8,8 @@ pattern using a `for` loop.
 The program starts with `a = 1` and adds the current value of `i` in
 every iteration.
 
+## 📂 Project Structure
+
 ```
 Number-Pattern/
 │
@@ -15,14 +17,8 @@ Number-Pattern/
 ├── index.html
 ├── js
 │   ├── q1.js
-│   ├── q2.js
-│   ├── q3.js
-│   ├── q4.js
-│   ├── q5.js
-│   ├── q6.js
-│   ├── q7.js
 └── screenshots/
-    └── output.png
+    └── q1.png
 ```
 
 ## 💻 Code

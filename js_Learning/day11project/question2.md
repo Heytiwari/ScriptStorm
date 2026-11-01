@@ -14,9 +14,11 @@ their respective positions is equal to the original number.
 
 Therefore, `135` is a Disarium Number.
 
+## 📂 Project Structure
+
 ```
 day11project/
-├── README.md
+├── question2.md
 ├── index.html
 ├── js
 │   └── q2.js
