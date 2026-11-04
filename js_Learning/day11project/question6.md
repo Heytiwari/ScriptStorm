@@ -69,7 +69,7 @@ Length: 3
 
 ### Output Screenshot
 
-![Output Screenshot](./screenshots/q6.png)
+![Output Screenshot](./screenshort/q6.png)
 
 ## 🛠️ Technologies Used
 

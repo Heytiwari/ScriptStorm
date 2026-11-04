@@ -11,10 +11,9 @@
 
 let num = +prompt(`Enter Any Number: `);
 
-let a = 1;
-
-for(let i = 1; i <= num; i++){
-    document.write(`${a} &nbsp;`);
-
-    a = a + i;
+let a = 1;  //7
+                           5
+for(let i = 1; i <= num; i++){  // 2 <= 4
+    document.write(`${a} &nbsp;`); // 1 2 4 7
+    a = a + i; // 7 + 4 = 11
 } 

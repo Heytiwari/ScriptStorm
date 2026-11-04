@@ -9,9 +9,10 @@ Output :  a, e, i, m, q, u, y
 */
 
 
-let character = prompt(`Enter Start Character: `);
+let startCharacter = prompt(`Enter Start Character: `);
+let endCharacter = prompt(`Enter End Character: `);
 
 do {
-    document.write(`${character} &nbsp;`);
-    character = String.fromCharCode(character.charCodeAt(0) + 4);
-} while (character.charCodeAt(0) <= 122);
+    document.write(`${startCharacter} &nbsp;`);
+    startCharacter = String.fromCharCode(startCharacter.charCodeAt(0) + 4);
+} while (startCharacter <= endCharacter);

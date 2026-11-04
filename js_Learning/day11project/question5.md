@@ -63,7 +63,7 @@ a e i m q u y
 
 ### Output Screenshot
 
-![Output Screenshot](./screenshots/q5.png)
+![Output Screenshot](./screenshort/q5.png)
 
 ## 🛠️ Technologies Used
 

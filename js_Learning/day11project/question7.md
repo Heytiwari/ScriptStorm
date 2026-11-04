@@ -79,7 +79,7 @@ The sum of the first and the last digit: 7
 
 ### Output Screenshot
 
-![Output Screenshot](./screenshots/q7.png)
+![Output Screenshot](./screenshort/q7.png)
 
 ## 🛠️ Technologies Used
 

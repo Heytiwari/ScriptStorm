@@ -61,7 +61,7 @@ Characters from D to M: D E F G H I J K L M
 
 ### Output Screenshot
 
-![Output Screenshot](./screenshot/q4.png)
+![Output Screenshot](./screenshort/q4.png)
 
 ## 🛠️ Technologies Used
 

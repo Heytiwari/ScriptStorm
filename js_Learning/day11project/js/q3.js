@@ -13,10 +13,10 @@ Output :  Final : 2
 
 let num = +prompt(`Enter Any Number: `);
 
-while (num >= 10) {
+while (num >= 10) { 9875
     let sum = 0;
     while (num !== 0) {
-        let rem = num % 10;
+        let rem = num % 10; // 5
 
         sum = sum + rem;
 

@@ -14,27 +14,27 @@ Output :  135 is a Disarium number.
 
 
 
-let num = +prompt("Enter Any Number: ");
+let num = +prompt("Enter Any Number: "); //135 13 1
 
 let orgNum = num;
 let sum = 0;
-let count = 0;
-
-// while (num !== 0) {
-//     count++;
-//     num = Math.floor(num / 10);
-// }
-// num = orgNum;
+let count = 0; //3
 
 while (num !== 0) {
-    let rem = num % 10;
+    num = Math.floor(num / 10);
     count++;
-    let mul = 1;
+}
+num = orgNum; 
+
+while (num !== 0) { 
+    let rem = num % 10; //1
+    // count++;
+    let mul = 1; 
 
     for(let i = 1; i <= count; i++){
-        mul *= rem;
+        mul *= rem; //1 * 5 = 5    5 * 5 = 25  25 * 5 = 125 
     }
-    sum += mul;
+    sum += mul; // 0 + 125 ==125 + 9 =134 +1 =135
     num = Math.floor(num / 10);
     count--;
 }
