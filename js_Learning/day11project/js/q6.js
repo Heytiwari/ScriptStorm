@@ -10,10 +10,10 @@ Output :  Total number of digits: 3
 
 let num = +prompt(`Enter Any Number: `);
 
-let length = 0;
+let length = 0; //3
 
-while (num !== 0) {
-    num = Math.floor(num/10);
+while (num !== 0) { // 0 !== 0
+    num = Math.floor(num/10); // 0
     length++;
 }
 

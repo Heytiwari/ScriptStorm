@@ -8,12 +8,11 @@
  Output :  1 2 4 7 11 16 22 
 */
 
+let num = +prompt(`Enter Any Number: `); // 7
 
-let num = +prompt(`Enter Any Number: `);
+let a = 1; // 22 
 
-let a = 1;  //7
-                           5
-for(let i = 1; i <= num; i++){  // 2 <= 4
-    document.write(`${a} &nbsp;`); // 1 2 4 7
-    a = a + i; // 7 + 4 = 11
-} 
+for (let i = 1; i <= num; i++) {  // 8 <= 7 
+  document.write(`${a} &nbsp;`); // 1 2 4 7 11 16 22
+  a = a + i; // 22 + 7 = 29
+}

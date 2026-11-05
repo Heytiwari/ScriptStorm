@@ -13,14 +13,14 @@ Output :  Final : 2
 
 let num = +prompt(`Enter Any Number: `);
 
-while (num >= 10) { 9875
-    let sum = 0;
-    while (num !== 0) {
-        let rem = num % 10; // 5
+while (num >= 10) { 
+    let sum = 0; // 2
+    while (num !== 0) { // 1 !== 0
+        let rem = num % 10; // 1
 
-        sum = sum + rem;
+        sum = sum + rem; // 1 + 1 = 2
 
-        num = Math.floor(num / 10);
+        num = Math.floor(num / 10); // 0
     }
     num = sum;
 }

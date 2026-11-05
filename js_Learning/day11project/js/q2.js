@@ -14,32 +14,30 @@ Output :  135 is a Disarium number.
 
 
 
-let num = +prompt("Enter Any Number: "); //135 13 1
+let num = +prompt("Enter Any Number: "); // 135
 
 let orgNum = num;
-let sum = 0;
-let count = 0; //3
+let sum = 0; // 125
+let count = 0; //  3
 
-while (num !== 0) {
-    num = Math.floor(num / 10);
+while (num !== 0) {  // 0 !== 0
+    num = Math.floor(num / 10); // 1
     count++;
 }
-num = orgNum; 
+num = orgNum;
 
-while (num !== 0) { 
-    let rem = num % 10; //1
-    // count++;
-    let mul = 1; 
+while (num !== 0) { // 1
+    let rem = num % 10; // 1
+    let mul = 1; // 
 
-    for(let i = 1; i <= count; i++){
-        mul *= rem; //1 * 5 = 5    5 * 5 = 25  25 * 5 = 125 
+    for (let i = 1; i <= count; i++) {  // 2 <= 1
+        mul *= rem; //  1 * 1 = 1
     }
-    sum += mul; // 0 + 125 ==125 + 9 =134 +1 =135
-    num = Math.floor(num / 10);
-    count--;
+    sum += mul; //  0 + 125 = 125 + 9 = 134 + 1 = 135
+    num = Math.floor(num / 10); // 
+    count--; // 0
 }
 
 (sum === orgNum)
     ? document.write(`${orgNum} is Disarium Number.`)
     : document.write(`${orgNum} is Not Disarium Number.`);
- 
