@@ -81,6 +81,10 @@ Add your screenshots inside a folder named `screenshots`.
 ### Output Screenshot
 ![Output Screenshot](./screenshort/q3.png)
 
+## 🎥 Project Video Preview
+
+https://github.com/user-attachments/assets/896cca2a-eaa6-4e33-8d58-a39f495a7b2e
+
 ## 🛠️ Technologies Used
 - HTML
 - JavaScript
