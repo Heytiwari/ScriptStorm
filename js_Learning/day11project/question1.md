@@ -79,9 +79,12 @@ Add your program screenshots in a folder named `screenshots`.
 
 ![Output Screenshot](./screenshort/q1.png)
 
-
-> Replace `output.png` with your actual screenshot file
+> Replace `q1.png` with your actual screenshot file
 > names, or keep these names for your images.
+
+## 🎥 Project Video Preview
+
+https://github.com/user-attachments/assets/31b7a44d-bdd2-4515-bdae-60cc7d20ac81
 
 ## 🛠️ Technologies Used
 
