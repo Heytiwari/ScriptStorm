@@ -118,6 +118,10 @@ Add your screenshots inside a folder named `screenshots`.
 Use these file names for your screenshots, or update the image paths
 above to match your actual names.
 
+## 🎥 Project Video Preview
+
+https://github.com/user-attachments/assets/1e580273-12e4-46e9-a176-fafc2f14136d
+
 ## 🛠️ Technologies Used
 
 -   HTML
