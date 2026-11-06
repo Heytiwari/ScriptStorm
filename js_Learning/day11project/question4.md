@@ -63,6 +63,10 @@ Characters from D to M: D E F G H I J K L M
 
 ![Output Screenshot](./screenshort/q4.png)
 
+## 🎥 Project Video Preview
+
+https://github.com/user-attachments/assets/7aa940a6-252e-44e7-bdff-1876a67dded0
+
 ## 🛠️ Technologies Used
 
 - HTML
