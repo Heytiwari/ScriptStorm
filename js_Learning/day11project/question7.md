@@ -81,6 +81,10 @@ The sum of the first and the last digit: 7
 
 ![Output Screenshot](./screenshort/q7.png)
 
+## 🎥 Project Video Preview
+
+https://github.com/user-attachments/assets/eee8a2b0-41d4-4afe-b9ef-cdb32b823d23
+
 ## 🛠️ Technologies Used
 
 - HTML
