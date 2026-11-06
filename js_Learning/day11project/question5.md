@@ -65,6 +65,10 @@ a e i m q u y
 
 ![Output Screenshot](./screenshort/q5.png)
 
+## 🎥 Project Video Preview
+
+https://github.com/user-attachments/assets/9a37077d-c807-4887-b04b-5f49a994b74d
+
 ## 🛠️ Technologies Used
 
 - HTML
