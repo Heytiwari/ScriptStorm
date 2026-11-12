@@ -71,6 +71,10 @@ Length: 3
 
 ![Output Screenshot](./screenshort/q6.png)
 
+## 🎥 Project Video Preview
+
+https://github.com/user-attachments/assets/95abd257-bd01-4e20-80b2-7178db34de43
+
 ## 🛠️ Technologies Used
 
 - HTML
