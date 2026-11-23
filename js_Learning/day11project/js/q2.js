@@ -18,12 +18,13 @@ let num = +prompt("Enter Any Number: "); // 135
 
 let orgNum = num;
 let sum = 0; // 125
-let count = 0; //  3
+let count = num.toString().length; //  3
 
-while (num !== 0) {  // 0 !== 0
-    num = Math.floor(num / 10); // 1
-    count++;
-}
+// while (num !== 0) {  // 0 !== 0
+//     num = Math.floor(num / 10); // 1
+//     count++;
+// }
+
 num = orgNum;
 
 while (num !== 0) { // 1
