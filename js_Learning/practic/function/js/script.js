@@ -70,16 +70,31 @@ function login(email, password) {
 // else
 //     alert("Login Failed...");
 
-
-login(email, password)
-  ? alert("Login Successfull...")
-  : alert("Login Failed...");
-
 // let result = login("abc@gmail.com", "Abc@123456");
 
 // console.log(result);
 
+// login(email, password)
+//   ? alert("Login Successfull...")
+//   : alert("Login Failed...");
 
+
+
+// arrow function using fat arrow
+
+
+const addition = (a, b) => {
+    return a + b;
+}
+console.log(addition(10, 10));
+
+//anonymous function
+
+const multiplication = function (a, b, c) {
+    return a * b * c;
+}
+
+console.log(multiplication(10, 10, 10));
 
 
 
