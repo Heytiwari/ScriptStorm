@@ -82,19 +82,43 @@ function login(email, password) {
 
 // arrow function using fat arrow
 
+let num1 = +prompt(`Enter First number: `);
+let num2 = +prompt(`Enter Second number: `);
 
 const addition = (a, b) => {
     return a + b;
 }
-console.log(addition(10, 10));
+console.log(addition(num1, num2));
+
+const substration = (a, b) => {
+    return a - b;
+}
+console.log(substration(num1, num2));
+
+const multiplication = (a, b) => {
+    return a * b;
+}
+console.log(substration(num1, num2));
+
+const division = (a, b) => {
+    return a / b;
+}
+console.log(division(num1, num2));
+
+const reminder = (a, b) => {
+    return a % b;
+}
+console.log(reminder(num1, num2));
+
+
 
 //anonymous function
 
-const multiplication = function (a, b, c) {
-    return a * b * c;
-}
+// const multiplication = function (a, b, c) {
+//     return a * b * c;
+// }
 
-console.log(multiplication(10, 10, 10));
+// console.log(multiplication(10, 10, 10));
 
 
 
