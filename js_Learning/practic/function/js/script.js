@@ -9,11 +9,11 @@ myIntroduction();
 */
 
 // TSRN (Take something and return nothing)
-/*
+
 let a = +prompt(`Enter first number: `);
 let b = +prompt(`Enter second number: `);
 
-function arthmaticOperator(a = 0, b = 0) {
+function arthmeticOperator(a = 0, b = 0) {
    sum = a + b;
    document.write(`sum: ${sum} <br>`);
    sub = a - b;
@@ -26,9 +26,9 @@ function arthmaticOperator(a = 0, b = 0) {
    document.write(`rem: ${rem} <br><br>`);
 }
 
-arthmaticOperator(a, b);
+arthmeticOperator(a, b);
 
-*/
+
 
 // TNRS (Take nothing and return something)
 /*
@@ -74,7 +74,10 @@ function login(email, password) {
 
 // console.log(result);
 
-// login(email, password)
+// let userEmail = "abc@gmail.com";
+// let password = "Abc@123456";
+
+// (login(userEmail, password))
 //   ? alert("Login Successfull...")
 //   : alert("Login Failed...");
 
@@ -82,33 +85,33 @@ function login(email, password) {
 
 // arrow function using fat arrow
 
-let num1 = +prompt(`Enter First number: `);
-let num2 = +prompt(`Enter Second number: `);
+// let num1 = +prompt(`Enter First number: `);
+// let num2 = +prompt(`Enter Second number: `);
 
-const addition = (a, b) => {
-    return a + b;
-}
-console.log(addition(num1, num2));
+// const addition = (a, b) => {
+//     return a + b;
+// }
+// console.log(addition(num1, num2));
 
-const substration = (a, b) => {
-    return a - b;
-}
-console.log(substration(num1, num2));
+// const substration = (a, b) => {
+//     return a - b;
+// }
+// console.log(substration(num1, num2));
 
-const multiplication = (a, b) => {
-    return a * b;
-}
-console.log(substration(num1, num2));
+// const multiplication = (a, b) => {
+//     return a * b;
+// }
+// console.log(substration(num1, num2));
 
-const division = (a, b) => {
-    return a / b;
-}
-console.log(division(num1, num2));
+// const division = (a, b) => {
+//     return a / b;
+// }
+// console.log(division(num1, num2));
 
-const reminder = (a, b) => {
-    return a % b;
-}
-console.log(reminder(num1, num2));
+// const reminder = (a, b) => {
+//     return a % b;
+// }
+// console.log(reminder(num1, num2));
 
 
 
