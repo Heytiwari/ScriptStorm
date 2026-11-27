@@ -51,9 +51,7 @@
 
 // find palindrome numbar
 
-const palindrome = (num) => {
- let orgNum = num; 
- let rev = 0;
+const palindrome = (num, rev, orgNum) => { 
  let rem;
 
  if (num !== 0) {
@@ -61,18 +59,19 @@ const palindrome = (num) => {
     rev = rev * 10 + rem;
     num = Math.floor(num / 10);
 
-    // return palindrome(num);
+   palindrome(num, rev, orgNum);
+   return;
  }
 
  if (orgNum === rev) {
-    document.write(`${orgNum} is Plindrome.`);
+    document.write(`${orgNum} is Palindrome.`);
  } else {
-    document.write(`${orgNum} is not Plindrome.`);
+    document.write(`${orgNum} is not Palindrome.`);
  }
  return rev;
 
 }
 
-const ans = palindrome(121);
+const ans = palindrome(121, 0, 121);
 
 // document.write(`${ans}`);
