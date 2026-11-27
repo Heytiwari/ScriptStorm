@@ -51,27 +51,43 @@
 
 // find palindrome numbar
 
-const palindrome = (num, rev, orgNum) => { 
- let rem;
+// const palindrome = (num, rev, orgNum) => {
+//    let rem;
 
- if (num !== 0) {
-    rem = num % 10;
-    rev = rev * 10 + rem;
-    num = Math.floor(num / 10);
+//    if (num !== 0) {
+//       rem = num % 10;
+//       rev = rev * 10 + rem;
+//       num = Math.floor(num / 10);
 
-   palindrome(num, rev, orgNum);
-   return;
- }
+//       palindrome(num, rev, orgNum);
+//       return;
+//    }
 
- if (orgNum === rev) {
-    document.write(`${orgNum} is Palindrome.`);
- } else {
-    document.write(`${orgNum} is not Palindrome.`);
- }
- return rev;
+//    if (orgNum === rev) {
+//       document.write(`${orgNum} is Palindrome.`);
+//    } else {
+//       document.write(`${orgNum} is not Palindrome.`);
+//    }
+//    return rev;
 
-}
+// }
 
-const ans = palindrome(121, 0, 121);
+// const ans = palindrome(121, 0, 121);
 
 // document.write(`${ans}`);
+
+
+// follow the series 1 2 4 7 .....
+
+const loopSeries = (num = 0, a = 1, i = 1) => {
+   if (i <= num) {
+      document.write(`${a} `);
+      a += i;
+      i++;
+      loopSeries(num, a, i);
+      return;
+   }
+   return i;
+}
+
+const ans = loopSeries(7);
