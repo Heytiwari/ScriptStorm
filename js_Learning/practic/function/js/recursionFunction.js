@@ -80,6 +80,7 @@
 // follow the series 1 2 4 7 .....
 
 const loopSeries = (num = 0, a = 1, i = 1) => {
+   
    if (i <= num) {
       document.write(`${a} `);
       a += i;
